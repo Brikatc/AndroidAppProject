@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Course2771\exercises\ex71\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Course2771\exercises\ex71\app\build\intermediates\pre-dexed\debug\classes-e8e153b465db7e857eebcfd0eb8fc14ab1407be3.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex51\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Course2771\exercises\ex51\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c294c0b8ed68e34dd5ff3cd9590b9c2b94dfddf4.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex22\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Course2771\exercises\ex22\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-01a096d3f3449a87006d38dfff661fac8703c732.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex42\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Course2771\exercises\ex42\app\build\intermediates\pre-dexed\debug\classes-900dfe392759d538a4b2fc152e41315c3929f44f.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex51\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Course2771\exercises\ex51\app\build\intermediates\pre-dexed\debug\classes-8bcccbf7028ec90601b5f54947b50bfcefa598f3.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex51\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Course2771\exercises\ex51\app\build\intermediates\pre-dexed\debug\classes-7a8ded1a1acb8f201d3654a7ed457e098f673ca6.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex22\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Course2771\exercises\ex22\app\build\intermediates\pre-dexed\debug\classes-3d49e32c4710b0c86d05b954269c3983afb5e600.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex71\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Course2771\exercises\ex71\app\build\intermediates\pre-dexed\debug\classes-bdcc2e3cacc4cac23ad50da0c6b82f1fde7d5d27.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex42\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Course2771\exercises\ex42\app\build\intermediates\pre-dexed\debug\classes-d7c5cd2b8d0545df6dbb4e43ce05df586d2f69c2.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex42\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Course2771\exercises\ex42\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-119a51e7b2f8301f846105eb972bbcac054fd598.jar" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Course2771\exercises\ex51\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-039465bcacbc4807b84be940584ec81caa2ca51c.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex71\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Course2771\exercises\ex71\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f91ad3914287b8c567589e1b43874091bbe2225c.jar" />
+    </item>
+    <item
+        jar="C:\Course2771\exercises\ex22\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Course2771\exercises\ex22\app\build\intermediates\pre-dexed\debug\classes-0c1e070c6ab7465766e6480d1eb30e3b1f23fa89.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.csug.expenses"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_app"
+        android:label="@string/app_name"
+        android:theme="@style/ApplicationTheme" >
+
+        <!-- NOTE: provider must be a child of application (not an activity) -->
+        <!-- TODO: Add the provider declaration -->
+        <provider
+            android:name="edu.csug.expenses.data.ExpensesProvider"
+            android:authorities="edu.csug.expenses.expenses"
+            android:exported="false" />
+
+        <activity
+            android:name="edu.csug.expenses.ExpensesListActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="edu.csug.expenses.SyncService"
+            android:exported="false" >
+        </service>
+
+        <activity
+            android:name="edu.csug.expenses.ExpenseEntryActivity"
+            android:label="@string/title_activity_expense_entry"
+            android:parentActivityName="edu.csug.expenses.ExpensesListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="edu.csug.expenses.ExpensesListActivity" />
+        </activity>
+        <activity android:name="edu.csug.camera.CameraEmulatorActivity" >
+
+            <!-- TODO create an Intent filter -->
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
