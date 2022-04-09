@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="welcome">Welcome</string>
+    <string name="AppName_PortfolioProject">What\'s On Your To-Do</string>
+    <string name="AppName_Project">What\'s On Your To-Do</string>
+    <string name="app_home">pick your tabs</string>
+</resources>
